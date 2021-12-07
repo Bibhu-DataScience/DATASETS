@@ -1,0 +1,184 @@
+PROD_ID,CATEGORY,PRODUCT_NAME,PRICE,YEAR
+PROD_1,Organic,"Kirkland Signature Organic Extra Virgin Olive Oil, 2 L",10.3873,2019
+PROD_2,Organic,"Newman's Own Organics Coffee Special Blend K-Cup Pod, 100-count",33.1023,2019
+PROD_3,Organic,"Kirkland Signature Organic Chicken Stock, 32 fl oz, 6-count",10.341,2019
+PROD_4,Organic,"Seeds of Change Organic Quinoa and Brown Rice, 8.5 oz, 6-count",10.0251,2019
+PROD_5,Organic,"Kirkland Signature Organic Lemonade, 96 fl oz, 2-count",6.0279,2019
+PROD_6,Gourmet Foods,"Rastelli Antibiotic-free Pork Bacon, 12 oz, 12-pack",78.0929,2019
+PROD_7,Gourmet Foods,"Rastelli Bone-In Premium Pork Rib Steak 8 oz, 16-count, 8 lbs",107.991,2019
+PROD_8,Gourmet Foods,D'Artagnan Berkshire Pork Tenderloins 12-pack,125.991,2019
+PROD_9,Gourmet Foods,"Pederson Natural Farms No Sugar Italian Ground Sausage 1 lb, 10-pack",71.0921,2019
+PROD_10,Gourmet Foods,Rastelli Market Fresh Angus Beef Prime Petite Filet Mignons & Wild Caught Maine Lobster Tails,129.1924,2019
+PROD_11,Gourmet Foods,"Morning Star Farms Frozen Chipotle Black Bean Veggie Burgers, 50.8 oz",14.1929,2019
+PROD_12,Meat,"Rastelli Antibiotic-free Pork Bacon, 12 oz, 12-pack",86.8921,2019
+PROD_13,Meat,"Rastelli Bone-In Premium Pork Rib Steak 8 oz, 16-count, 8 lbs",106.7911,2019
+PROD_14,Meat,"Kirkland Signature Meatballs, 6 lbs",14.5479,2019
+PROD_15,Meat,"D?Artagnan Gourmet Steak & Burger Grill Pack, 16 lbs",233.9922,2019
+PROD_16,Meat,"D'Artagnan Extreme American Wagyu Burger Lovers Bundle 12-pack, 6 lbs",106.4929,2019
+PROD_17,Poultry,"Tyson Panko Breaded Chicken Breast Tenderloins, 5 lbs",13.2924,2019
+PROD_18,Poultry,"D?Artagnan Green Circle Whole Chicken, 6-count, 18 lbs",81.9918,2019
+PROD_19,Poultry,"Tyson Panko Breaded Chicken Nuggets, 5 lbs",13.4221,2019
+PROD_20,Poultry,"Ling Ling All Natural Potstickers, Chicken & Vegetable, 4.2 lbs",12.5916,2019
+PROD_21,Poultry,"Foster Farms Jumbo Chicken Corn Dogs, 28-count",12.1524,2019
+PROD_22,Seafood,Alaska Home Pack Premium Seafood Variety Pack,321.8913,2019
+PROD_23,Seafood,"Kirkland Signature Farm-Raised Raw Shrimp, Tail-On, Peeled, Deveined, 21-25-count, 2 lbs",14.7518,2019
+PROD_24,Seafood,"Aqua Star Coconut Breaded Butterfly Shrimp, Clean Tail, 16-20-count, 2.5 lbs",16.0111,2019
+PROD_25,Seafood,"Northwest Red King Salmon Portions, 7-9 oz, minimum 12-count, 6 lbs total",82.4925,2019
+PROD_26,Seafood,"Rastelli Market Fresh Jumbo Lump Crab Cakes 4 oz, 20-count",122.3928,2019
+PROD_27,Cheese And Dairy,"Chobani Greek Yogurt Variety Pack, 5.3 oz., 20-count",9.4827,2019
+PROD_28,Cheese And Dairy,"Pauly Cream Cheese, 3 lbs",6.4524,2019
+PROD_29,Cheese And Dairy,"Kraft Singles American Cheese, 96 Slices, 4 lbs",9.4924,2019
+PROD_30,Cheese And Dairy,"Yoplait Original Low Fat Yogurt, Variety, 6 oz, 24 ct",10.2524,2019
+PROD_31,Cheese And Dairy,"Cheswick Mild Cheddar Cheese, 5 lbs",13.5218,2019
+PROD_32,Bakery And Desserts,"Meiji Hello Panda Chocolate Creme Filled Cookies, 0.75 oz, 32-count",4.6728,2019
+PROD_33,Bakery And Desserts,"Famous Amos Cookies, Chocolate Chip, 2 oz, 42-count",9.1572,2019
+PROD_34,Bakery And Desserts,"Sugar Bowl Bakery Duet Bites, 32 oz",11.5128,2019
+PROD_35,Bakery And Desserts,"David's Cookies 9"" Rainbow Cake",51.291,2019
+PROD_36,Bakery And Desserts,"Oreo Sandwich Cookies, 2.4 oz, 30-count",8.7324,2019
+PROD_37,Snacks,Corazonas HeartBar Oatmeal Raisin Squares 72-count,44.5419,2019
+PROD_38,Snacks,"Pepperidge Farm Goldfish Crackers, Cheddar, 1 oz, 45-count",7.641,2019
+PROD_39,Snacks,"PopCorners Popped-Corn Snack, Variety Pack, 1 oz, 28-count",7.7626,2019
+PROD_40,Snacks,"Protein Snack Box, Variety, 24-count",22.1121,2019
+PROD_41,Snacks,"Kiss My Keto Bars Peanut Butter 12 ct, 2-pk",38.4923,2019
+PROD_42,Candy,"Mott's Fruit Snacks, Assorted Fruit, 0.8 oz, 90-count",9.9963,2019
+PROD_43,Candy,"Kinder Bueno Bars, 1.5 oz, 20-count",15.291,2019
+PROD_44,Candy,"Hershey's Milk Chocolate With Almonds, 1.45 oz, 36-count",24.741,2019
+PROD_45,Candy,"M&M's Milk Chocolate Candy, 62 oz Jar",10.7928,2019
+PROD_46,Candy,"Almond Joy Candy Bar, 1.6 oz, 36-count",21.4422,2019
+PROD_47,Breakfast,"Bon Appetit Gourmet Pastry, Variety Pack, 3 oz, 24-count",11.0088,2019
+PROD_48,Breakfast,"Universal Bakery Traditional Aussie Bites, 27 oz",7.2927,2019
+PROD_49,Breakfast,"Cheerios Cereal, Honey Nut, 27.5 oz, 2-count",8.4461,2019
+PROD_50,Breakfast,"BelVita Breakfast Biscuit, Cinnamon Brown Sugar, 1.76 oz, 30-count",8.5722,2019
+PROD_51,Breakfast,Bob's Organic Cooking Steel Cut Oats 2-Boxes,21.592,2019
+PROD_52,Personal And Health Care,"Natrol 5-HTP Plus Mood & Relaxation 100 mg., 150 Time Release Tablets",16.0863,2019
+PROD_53,Personal And Health Care,"SmartyPants Kids Formula Multivitamin, 180 Gummies",14.1929,2019
+PROD_54,Personal And Health Care,"SENSODYNE Pronamel Gentle Whitening Advanced Toothpaste 6.5 oz, 4-pack",22.1926,2019
+PROD_55,Personal And Health Care,"Neutrogena Rainbath Shower Gel, 40 fl oz",13.8523,2019
+PROD_56,Personal And Health Care,"OLAY Regenerist Plus Micro Sculpting Cream, 1.7 oz, 2-pack",29.9112,2019
+PROD_57,Cleaning Supplies,"Clorox Disinfecting Wipes, Fresh, 20-count, 18-pack",16.3918,2019
+PROD_58,Cleaning Supplies,Nellie's Wow Mop Starter Kit,169.0911,2019
+PROD_59,Cleaning Supplies,"Lysol Advanced Toilet Bowl Cleaner, 32 fl oz, 4-count",12.1419,2019
+PROD_60,Cleaning Supplies,"Tide Ultra Concentrated with Downy HE Liquid Laundry Detergent, April Fresh, 110 loads, 150 fl oz",18.0514,2019
+PROD_61,Cleaning Supplies,"Cascade Complete Dishwasher Detergent Actionpacs, 90-count",14.6872,2019
+PROD_1,Organic,"Kirkland Signature Organic Extra Virgin Olive Oil, 2 L",9.5779,2020
+PROD_2,Organic,"Newman's Own Organics Coffee Special Blend K-Cup Pod, 100-count",36.5415,2020
+PROD_3,Organic,"Kirkland Signature Organic Chicken Stock, 32 fl oz, 6-count",8.8473,2020
+PROD_4,Organic,"Seeds of Change Organic Quinoa and Brown Rice, 8.5 oz, 6-count",9.8982,2020
+PROD_5,Organic,"Kirkland Signature Organic Lemonade, 96 fl oz, 2-count",6.792,2020
+PROD_6,Gourmet Foods,"Rastelli Antibiotic-free Pork Bacon, 12 oz, 12-pack",93.4915,2020
+PROD_7,Gourmet Foods,"Rastelli Bone-In Premium Pork Rib Steak 8 oz, 16-count, 8 lbs",104.3913,2020
+PROD_8,Gourmet Foods,D'Artagnan Berkshire Pork Tenderloins 12-pack,111.992,2020
+PROD_9,Gourmet Foods,"Pederson Natural Farms No Sugar Italian Ground Sausage 1 lb, 10-pack",62.993,2020
+PROD_10,Gourmet Foods,Rastelli Market Fresh Angus Beef Prime Petite Filet Mignons & Wild Caught Maine Lobster Tails,135.992,2020
+PROD_11,Gourmet Foods,"Morning Star Farms Frozen Chipotle Black Bean Veggie Burgers, 50.8 oz",15.5922,2020
+PROD_12,Meat,"Rastelli Antibiotic-free Pork Bacon, 12 oz, 12-pack",83.5924,2020
+PROD_13,Meat,"Rastelli Bone-In Premium Pork Rib Steak 8 oz, 16-count, 8 lbs",86.3928,2020
+PROD_14,Meat,"Kirkland Signature Meatballs, 6 lbs",17.4165,2020
+PROD_15,Meat,"D?Artagnan Gourmet Steak & Burger Grill Pack, 16 lbs",248.9917,2020
+PROD_16,Meat,"D'Artagnan Extreme American Wagyu Burger Lovers Bundle 12-pack, 6 lbs",118.4921,2020
+PROD_17,Poultry,"Tyson Panko Breaded Chicken Breast Tenderloins, 5 lbs",15.741,2020
+PROD_18,Poultry,"D?Artagnan Green Circle Whole Chicken, 6-count, 18 lbs",69.993,2020
+PROD_19,Poultry,"Tyson Panko Breaded Chicken Nuggets, 5 lbs",14.2716,2020
+PROD_20,Poultry,"Ling Ling All Natural Potstickers, Chicken & Vegetable, 4.2 lbs",11.992,2020
+PROD_21,Poultry,"Foster Farms Jumbo Chicken Corn Dogs, 28-count",11.8326,2020
+PROD_22,Seafood,Alaska Home Pack Premium Seafood Variety Pack,270.0927,2020
+PROD_23,Seafood,"Kirkland Signature Farm-Raised Raw Shrimp, Tail-On, Peeled, Deveined, 21-25-count, 2 lbs",14.0322,2020
+PROD_24,Seafood,"Aqua Star Coconut Breaded Butterfly Shrimp, Clean Tail, 16-20-count, 2.5 lbs",15.8312,2020
+PROD_25,Seafood,"Northwest Red King Salmon Portions, 7-9 oz, minimum 12-count, 6 lbs total",89.0919,2020
+PROD_26,Seafood,"Rastelli Market Fresh Jumbo Lump Crab Cakes 4 oz, 20-count",125.7926,2020
+PROD_27,Cheese And Dairy,"Chobani Greek Yogurt Variety Pack, 5.3 oz., 20-count",11.1714,2020
+PROD_28,Cheese And Dairy,"Pauly Cream Cheese, 3 lbs",6.2826,2020
+PROD_29,Cheese And Dairy,"Kraft Singles American Cheese, 96 Slices, 4 lbs",10.4916,2020
+PROD_30,Cheese And Dairy,"Yoplait Original Low Fat Yogurt, Variety, 6 oz, 24 ct",9.5779,2020
+PROD_31,Cheese And Dairy,"Cheswick Mild Cheddar Cheese, 5 lbs",13.0271,2020
+PROD_32,Bakery And Desserts,"Meiji Hello Panda Chocolate Creme Filled Cookies, 0.75 oz, 32-count",5.841,2020
+PROD_33,Bakery And Desserts,"Famous Amos Cookies, Chocolate Chip, 2 oz, 42-count",9.392,2020
+PROD_34,Bakery And Desserts,"Sugar Bowl Bakery Duet Bites, 32 oz",11.9925,2020
+PROD_35,Bakery And Desserts,"David's Cookies 9"" Rainbow Cake",43.3124,2020
+PROD_36,Bakery And Desserts,"Oreo Sandwich Cookies, 2.4 oz, 30-count",8.7324,2020
+PROD_37,Snacks,Corazonas HeartBar Oatmeal Raisin Squares 72-count,38.493,2020
+PROD_38,Snacks,"Pepperidge Farm Goldfish Crackers, Cheddar, 1 oz, 45-count",5.943,2020
+PROD_39,Snacks,"PopCorners Popped-Corn Snack, Variety Pack, 1 oz, 28-count",7.9724,2020
+PROD_40,Snacks,"Protein Snack Box, Variety, 24-count",19.593,2020
+PROD_41,Snacks,"Kiss My Keto Bars Peanut Butter 12 ct, 2-pk",43.9912,2020
+PROD_42,Candy,"Mott's Fruit Snacks, Assorted Fruit, 0.8 oz, 90-count",9.6516,2020
+PROD_43,Candy,"Kinder Bueno Bars, 1.5 oz, 20-count",14.1017,2020
+PROD_44,Candy,"Hershey's Milk Chocolate With Almonds, 1.45 oz, 36-count",23.6414,2020
+PROD_45,Candy,"M&M's Milk Chocolate Candy, 62 oz Jar",12.7415,2020
+PROD_46,Candy,"Almond Joy Candy Bar, 1.6 oz, 36-count",22.2669,2020
+PROD_47,Breakfast,"Bon Appetit Gourmet Pastry, Variety Pack, 3 oz, 24-count",11.4675,2020
+PROD_48,Breakfast,"Universal Bakery Traditional Aussie Bites, 27 oz",8.4915,2020
+PROD_49,Breakfast,"Cheerios Cereal, Honey Nut, 27.5 oz, 2-count",7.6869,2020
+PROD_50,Breakfast,"BelVita Breakfast Biscuit, Cinnamon Brown Sugar, 1.76 oz, 30-count",7.693,2020
+PROD_51,Breakfast,Bob's Organic Cooking Steel Cut Oats 2-Boxes,19.1629,2020
+PROD_52,Personal And Health Care,"Natrol 5-HTP Plus Mood & Relaxation 100 mg., 150 Time Release Tablets",13.4977,2020
+PROD_53,Personal And Health Care,"SmartyPants Kids Formula Multivitamin, 180 Gummies",14.7926,2020
+PROD_54,Personal And Health Care,"SENSODYNE Pronamel Gentle Whitening Advanced Toothpaste 6.5 oz, 4-pack",21.8927,2020
+PROD_55,Personal And Health Care,"Neutrogena Rainbath Shower Gel, 40 fl oz",15.8312,2020
+PROD_56,Personal And Health Care,"OLAY Regenerist Plus Micro Sculpting Cream, 1.7 oz, 2-pack",30.2511,2020
+PROD_57,Cleaning Supplies,"Clorox Disinfecting Wipes, Fresh, 20-count, 18-pack",14.5927,2020
+PROD_58,Cleaning Supplies,Nellie's Wow Mop Starter Kit,153.8919,2020
+PROD_59,Cleaning Supplies,"Lysol Advanced Toilet Bowl Cleaner, 32 fl oz, 4-count",12.1419,2020
+PROD_60,Cleaning Supplies,"Tide Ultra Concentrated with Downy HE Liquid Laundry Detergent, April Fresh, 110 loads, 150 fl oz",14.9029,2020
+PROD_61,Cleaning Supplies,"Cascade Complete Dishwasher Detergent Actionpacs, 90-count",14.1865,2020
+PROD_1,Organic,"Kirkland Signature Organic Extra Virgin Olive Oil, 2 L",13.49,2021
+PROD_2,Organic,"Newman's Own Organics Coffee Special Blend K-Cup Pod, 100-count",42.99,2021
+PROD_3,Organic,"Kirkland Signature Organic Chicken Stock, 32 fl oz, 6-count",11.49,2021
+PROD_4,Organic,"Seeds of Change Organic Quinoa and Brown Rice, 8.5 oz, 6-count",12.69,2021
+PROD_5,Organic,"Kirkland Signature Organic Lemonade, 96 fl oz, 2-count",8.49,2021
+PROD_6,Gourmet Foods,"Rastelli Antibiotic-free Pork Bacon, 12 oz, 12-pack",109.99,2021
+PROD_7,Gourmet Foods,"Rastelli Bone-In Premium Pork Rib Steak 8 oz, 16-count, 8 lbs",119.99,2021
+PROD_8,Gourmet Foods,D'Artagnan Berkshire Pork Tenderloins 12-pack,139.99,2021
+PROD_9,Gourmet Foods,"Pederson Natural Farms No Sugar Italian Ground Sausage 1 lb, 10-pack",89.99,2021
+PROD_10,Gourmet Foods,Rastelli Market Fresh Angus Beef Prime Petite Filet Mignons & Wild Caught Maine Lobster Tails,169.99,2021
+PROD_11,Gourmet Foods,"Morning Star Farms Frozen Chipotle Black Bean Veggie Burgers, 50.8 oz",19.99,2021
+PROD_12,Meat,"Rastelli Antibiotic-free Pork Bacon, 12 oz, 12-pack",109.99,2021
+PROD_13,Meat,"Rastelli Bone-In Premium Pork Rib Steak 8 oz, 16-count, 8 lbs",119.99,2021
+PROD_14,Meat,"Kirkland Signature Meatballs, 6 lbs",20.49,2021
+PROD_15,Meat,"D?Artagnan Gourmet Steak & Burger Grill Pack, 16 lbs",299.99,2021
+PROD_16,Meat,"D'Artagnan Extreme American Wagyu Burger Lovers Bundle 12-pack, 6 lbs",149.99,2021
+PROD_17,Poultry,"Tyson Panko Breaded Chicken Breast Tenderloins, 5 lbs",17.49,2021
+PROD_18,Poultry,"D?Artagnan Green Circle Whole Chicken, 6-count, 18 lbs",99.99,2021
+PROD_19,Poultry,"Tyson Panko Breaded Chicken Nuggets, 5 lbs",16.99,2021
+PROD_20,Poultry,"Ling Ling All Natural Potstickers, Chicken & Vegetable, 4.2 lbs",14.99,2021
+PROD_21,Poultry,"Foster Farms Jumbo Chicken Corn Dogs, 28-count",15.99,2021
+PROD_22,Seafood,Alaska Home Pack Premium Seafood Variety Pack,369.99,2021
+PROD_23,Seafood,"Kirkland Signature Farm-Raised Raw Shrimp, Tail-On, Peeled, Deveined, 21-25-count, 2 lbs",17.99,2021
+PROD_24,Seafood,"Aqua Star Coconut Breaded Butterfly Shrimp, Clean Tail, 16-20-count, 2.5 lbs",17.99,2021
+PROD_25,Seafood,"Northwest Red King Salmon Portions, 7-9 oz, minimum 12-count, 6 lbs total",109.99,2021
+PROD_26,Seafood,"Rastelli Market Fresh Jumbo Lump Crab Cakes 4 oz, 20-count",169.99,2021
+PROD_27,Cheese And Dairy,"Chobani Greek Yogurt Variety Pack, 5.3 oz., 20-count",12.99,2021
+PROD_28,Cheese And Dairy,"Pauly Cream Cheese, 3 lbs",8.49,2021
+PROD_29,Cheese And Dairy,"Kraft Singles American Cheese, 96 Slices, 4 lbs",12.49,2021
+PROD_30,Cheese And Dairy,"Yoplait Original Low Fat Yogurt, Variety, 6 oz, 24 ct",13.49,2021
+PROD_31,Cheese And Dairy,"Cheswick Mild Cheddar Cheese, 5 lbs",16.49,2021
+PROD_32,Bakery And Desserts,"Meiji Hello Panda Chocolate Creme Filled Cookies, 0.75 oz, 32-count",6.49,2021
+PROD_33,Bakery And Desserts,"Famous Amos Cookies, Chocolate Chip, 2 oz, 42-count",11.74,2021
+PROD_34,Bakery And Desserts,"Sugar Bowl Bakery Duet Bites, 32 oz",15.99,2021
+PROD_35,Bakery And Desserts,"David's Cookies 9"" Rainbow Cake",56.99,2021
+PROD_36,Bakery And Desserts,"Oreo Sandwich Cookies, 2.4 oz, 30-count",11.49,2021
+PROD_37,Snacks,Corazonas HeartBar Oatmeal Raisin Squares 72-count,54.99,2021
+PROD_38,Snacks,"Pepperidge Farm Goldfish Crackers, Cheddar, 1 oz, 45-count",8.49,2021
+PROD_39,Snacks,"PopCorners Popped-Corn Snack, Variety Pack, 1 oz, 28-count",10.49,2021
+PROD_40,Snacks,"Protein Snack Box, Variety, 24-count",27.99,2021
+PROD_41,Snacks,"Kiss My Keto Bars Peanut Butter 12 ct, 2-pk",49.99,2021
+PROD_42,Candy,"Mott's Fruit Snacks, Assorted Fruit, 0.8 oz, 90-count",11.49,2021
+PROD_43,Candy,"Kinder Bueno Bars, 1.5 oz, 20-count",16.99,2021
+PROD_44,Candy,"Hershey's Milk Chocolate With Almonds, 1.45 oz, 36-count",27.49,2021
+PROD_45,Candy,"M&M's Milk Chocolate Candy, 62 oz Jar",14.99,2021
+PROD_46,Candy,"Almond Joy Candy Bar, 1.6 oz, 36-count",27.49,2021
+PROD_47,Breakfast,"Bon Appetit Gourmet Pastry, Variety Pack, 3 oz, 24-count",15.29,2021
+PROD_48,Breakfast,"Universal Bakery Traditional Aussie Bites, 27 oz",9.99,2021
+PROD_49,Breakfast,"Cheerios Cereal, Honey Nut, 27.5 oz, 2-count",9.49,2021
+PROD_50,Breakfast,"BelVita Breakfast Biscuit, Cinnamon Brown Sugar, 1.76 oz, 30-count",10.99,2021
+PROD_51,Breakfast,Bob's Organic Cooking Steel Cut Oats 2-Boxes,26.99,2021
+PROD_52,Personal And Health Care,"Natrol 5-HTP Plus Mood & Relaxation 100 mg., 150 Time Release Tablets",18.49,2021
+PROD_53,Personal And Health Care,"SmartyPants Kids Formula Multivitamin, 180 Gummies",19.99,2021
+PROD_54,Personal And Health Care,"SENSODYNE Pronamel Gentle Whitening Advanced Toothpaste 6.5 oz, 4-pack",29.99,2021
+PROD_55,Personal And Health Care,"Neutrogena Rainbath Shower Gel, 40 fl oz",17.99,2021
+PROD_56,Personal And Health Care,"OLAY Regenerist Plus Micro Sculpting Cream, 1.7 oz, 2-pack",33.99,2021
+PROD_57,Cleaning Supplies,"Clorox Disinfecting Wipes, Fresh, 20-count, 18-pack",19.99,2021
+PROD_58,Cleaning Supplies,Nellie's Wow Mop Starter Kit,189.99,2021
+PROD_59,Cleaning Supplies,"Lysol Advanced Toilet Bowl Cleaner, 32 fl oz, 4-count",14.99,2021
+PROD_60,Cleaning Supplies,"Tide Ultra Concentrated with Downy HE Liquid Laundry Detergent, April Fresh, 110 loads, 150 fl oz",20.99,2021
+PROD_61,Cleaning Supplies,"Cascade Complete Dishwasher Detergent Actionpacs, 90-count",16.69,2021
